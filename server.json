@@ -1,20 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de Site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-06-26T00:12:44.389Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2024-06-26T00:12:59.389Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-06-26T00:12:44.389Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-06-26T00:12:59.389Z"
+    },
+    {
+      "id": "8959",
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2024-06-30T18:35:34.898Z"
+    },
+    {
+      "id": "7cd9",
+      "description": "Pastel",
+      "category": "Alimentação",
+      "type": "outcome",
+      "price": 5,
+      "createdAt": "2024-07-03T00:19:31.398Z"
+    },
+    {
+      "id": "7f8f",
+      "description": "Iougurte de Banana",
+      "category": "Alimentação",
+      "type": "outcome",
+      "price": 4,
+      "createdAt": "2024-07-03T00:37:29.642Z"
+    }
+  ]
 }
